@@ -14,7 +14,7 @@ The map automatically updates every 5 minutes based on live monitoring data from
 
 ## Installation
 
-Download and run the [LightOnSetup.exe](https://github.com/YOUR_ACCOUNT/LightOn/releases) installer.  
+Download and run the [LightOnSetup.exe](https://github.com/Tony-Montanat/LightOn/releases) installer.  
 The application will automatically start after installation.
 
 > ⚡ LightOn also installs a hidden background component for system monitoring.  
